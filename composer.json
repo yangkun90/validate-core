@@ -1,0 +1,20 @@
+{
+  "name": "yk-cms-tp/validate-core",
+  "description": "tp5",
+  "authors": [
+    {
+      "name": "杨坤",
+      "email": "422377819@qq.com"
+    }
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "YkCmsTp\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.1.0",
+    "wangyu/reflex-core": ">=0.1.0"
+  }
+}
